@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a61c7664-4f56-45c3-90a7-efbabbd2eb55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +83,7 @@
       <updated>1608614099685</updated>
       <workItem from="1608614100954" duration="18586000" />
       <workItem from="1608668377229" duration="17100000" />
-      <workItem from="1608725503108" duration="14278000" />
+      <workItem from="1608725503108" duration="14576000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1608615690856</created>
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608739037099</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="completed!!">
+      <created>1608741314783</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608741314783</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +135,8 @@
     <MESSAGE value="start" />
     <MESSAGE value="기본 구조, 출력 완성" />
     <MESSAGE value="completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed" />
+    <MESSAGE value="completed!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed!!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
