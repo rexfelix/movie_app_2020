@@ -9,6 +9,10 @@
     08px 16px -8px rgba(0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
 }
 
+#link {
+  text-decoration: none;
+}
+
 .movie_data {
   margin-bottom: 70px;
 }
